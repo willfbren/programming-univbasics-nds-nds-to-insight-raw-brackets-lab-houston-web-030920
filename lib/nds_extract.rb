@@ -20,6 +20,6 @@ def directors_totals(nds)
   #
   # Be sure to return the result at the end!
   while directors_index < nds.length do
-    
+    directors_name = 
   nil
 end
