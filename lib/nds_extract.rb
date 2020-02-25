@@ -24,6 +24,6 @@ def directors_totals(nds)
     result[directors_name] = 0 
     movie_index = 0 
     
-    
+    while movie_index < 
   nil
 end
